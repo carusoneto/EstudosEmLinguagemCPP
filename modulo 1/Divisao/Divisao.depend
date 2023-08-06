@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1688910878 source:c:\users\brasil\desktop\c++\proj01\divisao\main.cpp
+	<iostream>
+	"Cabecalio.h"
+
+1688910847 c:\users\brasil\desktop\c++\proj01\divisao\cabecalio.h
+
+1688911211 source:c:\users\brasil\desktop\c++\proj01\divisao\cabecalio.cpp
+	<iostream>
+	"Cabecalio.h"
+	<tchar.h>
+
