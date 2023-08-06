@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689204257 source:c:\users\brasil\desktop\c++\proj01\stat\main.cpp
+	<iostream>
+	"sta.h"
+
+1689204239 c:\users\brasil\desktop\c++\proj01\stat\sta.h
+
+1689204446 source:c:\users\brasil\desktop\c++\proj01\stat\sta.cpp
+	<iostream>
+	"sta.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689119575 source:c:\users\brasil\desktop\c++\proj01\revisao01\revi.cpp
+	<iostream>
+	<tchar.h>
+	"revi.h"
+
+1689119677 c:\users\brasil\desktop\c++\proj01\revisao01\revi.h
+
+1689118931 source:c:\users\brasil\desktop\c++\proj01\revisao01\main.cpp
+	<iostream>
+	"revi.h"
+	<tchar.h>
+
