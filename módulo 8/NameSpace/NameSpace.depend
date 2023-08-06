@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1688913524 source:c:\users\brasil\desktop\c++\proj01\namespace\main.cpp
+	<iostream>
+	"Space.h"
+	"Space1.h"
+	<tchar.h>
+
+1688913524 c:\users\brasil\desktop\c++\proj01\namespace\space.h
+
+1688913524 source:c:\users\brasil\desktop\c++\proj01\namespace\space.cpp
+	<iostream>
+	"Space.h"
+
+1688913547 c:\users\brasil\desktop\c++\proj01\namespace\space1.h
+
+1688913597 source:c:\users\brasil\desktop\c++\proj01\namespace\space1.cpp
+	<iostream>
+	"Space1.h"
+

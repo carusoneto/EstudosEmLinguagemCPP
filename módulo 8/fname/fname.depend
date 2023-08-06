@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689027472 source:c:\users\brasil\desktop\c++\proj01\fname\name.cpp
+	<iostream>
+	"name.h"
+	<tchar.h>
+
+1689027472 c:\users\brasil\desktop\c++\proj01\fname\name.h
+
+1689027504 source:c:\users\brasil\desktop\c++\proj01\fname\main.cpp
+	<iostream>
+	<tchar.h>
+	"name.h"
+

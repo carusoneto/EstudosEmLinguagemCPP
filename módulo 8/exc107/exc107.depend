@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691108846 source:c:\users\brasil\desktop\c++\proj01\exc107\dados.cpp
+	<iostream>
+	"dados.h"
+
+1691108846 c:\users\brasil\desktop\c++\proj01\exc107\dados.h
+	<string>
+
+1691108251 source:c:\users\brasil\desktop\c++\proj01\exc107\main.cpp
+	<iostream>
+	"dados.h"
+	<tchar.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688515146 source:c:\users\brasil\desktop\c++\proj01\programamatematico\main.cpp
+	<iostream>
+	"matematica.h"
+
+1688686115 c:\users\brasil\desktop\c++\proj01\programamatematico\matematica.h
+
+1688686226 source:c:\users\brasil\desktop\c++\proj01\programamatematico\matematica.cpp
+	<iostream>
+	"matematica.h"
+	<tchar.h>
+	<math.h>
+

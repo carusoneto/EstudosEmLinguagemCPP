@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691191563 source:c:\users\brasil\desktop\c++\proj01\projetoconta\main.cpp
+	<iostream>
+	<string>
+	"conta.h"
+
+1691191509 c:\users\brasil\desktop\c++\proj01\projetoconta\conta.h
+
+1691191517 source:c:\users\brasil\desktop\c++\proj01\projetoconta\conta.cpp
+	<iostream>
+	<string>
+	"conta.h"
+
