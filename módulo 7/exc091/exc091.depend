@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1690135997 source:c:\users\brasil\desktop\c++\proj01\exc091\main.cpp
+	<iostream>
+	<tchar.h>
+	"heder.h"
+
+1690135997 c:\users\brasil\desktop\c++\proj01\exc091\heder.h
+
+1690136007 source:c:\users\brasil\desktop\c++\proj01\exc091\heder.cpp
+	<iostream>
+	"heder.h"
+
