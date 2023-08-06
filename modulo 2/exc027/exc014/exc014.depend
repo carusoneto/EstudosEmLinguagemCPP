@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685580206 source:c:\users\brasil\desktop\curso c\proj01\exc014\main.cpp
+	<iostream>
+	<fcntl.h>
+	<io.h>
+
