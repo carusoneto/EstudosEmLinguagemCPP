@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1688512951 source:c:\users\brasil\desktop\c++\proj01\exc071\main.cpp
+	<iostream>
+	"FuncoesMenu.h"
+
+1688513499 source:c:\users\brasil\desktop\c++\proj01\exc071\funcoesmenu.cpp
+	<iostream>
+	"FuncoesMenu.h"
+
+1688512609 c:\users\brasil\desktop\c++\proj01\exc071\funcoesmenu.h
+

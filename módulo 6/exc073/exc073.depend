@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1688776255 source:c:\users\brasil\desktop\c++\proj01\exc073\main.cpp
+	<iostream>
+	"Tipos.h"
+	"tipos1.h"
+	<tchar.h>
+
+1688776488 c:\users\brasil\desktop\c++\proj01\exc073\tipos.h
+
+1688776254 source:c:\users\brasil\desktop\c++\proj01\exc073\tipos.cpp
+	<iostream>
+	"Tipos.h"
+	<tchar.h>
+
+1688776255 source:c:\users\brasil\desktop\c++\proj01\exc073\tipos1.cpp
+	<iostream>
+	"tipos1.h"
+
+1688776488 c:\users\brasil\desktop\c++\proj01\exc073\tipos1.h
+

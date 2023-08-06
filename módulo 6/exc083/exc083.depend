@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1689720602 source:c:\users\brasil\desktop\c++\proj01\exc083\ex083.cpp
+
+1689720985 source:c:\users\brasil\desktop\c++\proj01\exc083\main.cpp
+	<iostream>
+	<tchar.h>
+	"red.h"
+
+1689720985 c:\users\brasil\desktop\c++\proj01\exc083\red.h
+
+1689720985 source:c:\users\brasil\desktop\c++\proj01\exc083\red.cpp
+	<iostream>
+	<tchar.h>
+	"red.h"
+
